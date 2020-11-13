@@ -1,0 +1,13 @@
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.exe
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.deps.json
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.runtimeconfig.json
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.runtimeconfig.dev.json
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.dll
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.pdb
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.csprojAssemblyReference.cache
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.AssemblyInfoInputs.cache
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.AssemblyInfo.cs
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.csproj.CoreCompileInputs.cache
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.dll
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.pdb
+C:\Users\karee\Desktop\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.genruntimeconfig.cache
